@@ -599,3 +599,21 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
 
 
 
+/*  */
+@media screen and (max-width:576px){
+    
+    .navbar-toggler{
+        margin: 17px 16px 0px 0px;
+    }
+    .imagee{
+        display: none;
+    }
+
+    .newsletter-bx{
+        width: 100%;
+        padding: 11px 16px;
+    }
+    .buttonemail{
+        width: 50%;
+    }
+}
